@@ -6,6 +6,4 @@
 
 ##### Citation
 
-<video src="https://raw.githubusercontent.com/ales-git/ICHInsight/master/web_app/Tutorial_compressed.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
+![Tutorial Preview](web_app/Tutorial.gif)

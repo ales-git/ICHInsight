@@ -6,4 +6,4 @@
 
 ##### Citation
 
-![Tutorial Preview](web_app/Tutorial_high_quaility.gif)
+[![Watch the video](https://img.youtube.com/vi/uK7eDUeIFZM/0.jpg)](https://youtu.be/uK7eDUeIFZM)

@@ -6,4 +6,4 @@
 
 ##### Citation
 
-[![Guarda il video]()](https://raw.githubusercontent.com/ales-git/ICHInsight/master/assets/Tutorial.mp4)
+[![Guarda il video]()](https://raw.githubusercontent.com/ales-git/ICHInsight/master/web_app/Tutorial.mp4)

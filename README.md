@@ -6,4 +6,4 @@
 
 ##### Citation
 
-[![Watch the video](https://img.youtube.com/vi/uK7eDUeIFZM/0.jpg)](https://youtu.be/uK7eDUeIFZM)
+[![Watch the video](web_app/tutorial_preview.png)](https://youtu.be/uK7eDUeIFZM)

@@ -6,4 +6,4 @@
 
 ##### Citation
 
-![Tutorial Preview](web_app/Tutorial.gif)
+![Tutorial Preview](web_app/Tutorial_high_quaility.gif)

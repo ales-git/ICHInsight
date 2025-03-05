@@ -17,7 +17,7 @@ All the required packages are listed in the `requirements.txt` file.
 Supported input file format: nii or nii.gz
 
 ### Model weights
-If you want to download our model weights please compile [this form](https://docs.google.com/forms/d/e/1FAIpQLSfCCLcsSPbZPWHf28X4nAdUCdM19x-ldPqZr6v_8CD3JrN8Ug/viewform?usp=header)
+If you want to download our model weights please compile [this form](https://docs.google.com/forms/d/e/1FAIpQLSc3Z5EOr0ZHTgMoLTjuX-vvnj7BUwQRSq3nTKew6J6HbfMEwQ/viewform?usp=share_link)
 
 ## Citation
 If you find this work useful for your research, please cite our paper:

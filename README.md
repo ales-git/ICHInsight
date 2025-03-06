@@ -12,7 +12,9 @@ This repository presents a web application for automating the segmentation of in
 
 ### Python requirements 
 python > 3.7, this code has been tested with python 3.10.
+
 All the required packages are listed in the `requirements.txt` file.
+
 !! Please note that for the radiomic feature extraction we used [pyradiomics](https://pyradiomics.readthedocs.io/en/latest/index.html) library which only supports Python 3.7. To avoid downgrading the Python version of the entire environment we created in the main project path a conda virtual environment named radiomics (located in web_app/venv_radiomics/radiomics) which is automatically loaded by the page computing the features. 
 Supported input file format: nii or nii.gz
 

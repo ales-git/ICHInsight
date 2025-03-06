@@ -10,6 +10,11 @@ This repository presents a web application for automating the segmentation of in
 
 [![Watch the video](web_app/tutorial_preview.png)](https://youtu.be/uK7eDUeIFZM)
 
+### Application run
+>> streamlit run 01_CT_Scan_Viewer.pz --server.port XXXXX
+
+For official Streamlit documentation please refer to [this page](https://docs.streamlit.io/)
+
 ### Python requirements 
 python > 3.7, this code has been tested with python 3.10.
 

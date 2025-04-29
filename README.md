@@ -1,6 +1,4 @@
-# Adapting Foundation Models for Rapid Clinical Response: Intracerebral Hemorrhage Segmentation in Emergency Settings [![arxiv](https://img.shields.io/badge/arXiv-red)]() 
-
-Official Repo of the paper "Adapting Foundation Models for Rapid Clinical Response: Intracerebral Hemorrhage Segmentation in Emergency Settings" - [Alessia Gerbasi](https://scholar.google.com/citations?user=zzZZp_UAAAAJ&hl=it) et al.
+# Adapting Foundation Models for Rapid Clinical Response: Intracerebral Hemorrhage Segmentation in Emergency Settings
 
 Intracerebral hemorrhage (ICH) is a critical condition that demands rapid and accurate diagnosis for optimal patient management. Traditional manual segmentation of hemorrhagic lesions in CT scans is time-consuming and prone to inter-rater variability, creating a need for automated solutions.
 

@@ -26,9 +26,4 @@ Supported input file format: nii or nii.gz
 ### Model weights
 If you want to download our model weights please compile [this form](https://docs.google.com/forms/d/e/1FAIpQLSc3Z5EOr0ZHTgMoLTjuX-vvnj7BUwQRSq3nTKew6J6HbfMEwQ/viewform?usp=share_link)
 
-## Citation
-If you find this work useful for your research, please cite our paper:
-```
-@misc{
-}
-```
+
